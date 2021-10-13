@@ -1,0 +1,6 @@
+"Kyle", "Kyle123"
+"Katlego", "Katlego123"
+
+
+// Administrative account
+"admin", "admin0123"
